@@ -6,10 +6,10 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class JavaStart1 {
     static Random random = new Random();
 
-    public Main() {
+    public JavaStart1() {
     }
 
     public static void main(String[] args) {
